@@ -5,5 +5,6 @@
 ## Git
 [Git commands](./git.md)
 ## How to design programs
-[Solutions to Exercises](github.com/hctx/htdp2)
+[Solutions to Exercises](https://github.com/hctx/htdp2)
+
 
